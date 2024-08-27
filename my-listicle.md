@@ -3,7 +3,8 @@
 -
 - [Cyanilux](https://www.cyanilux.com)
 -
-- [Daniel Illette] (https://danielilett.com)
+- [Daniel Illette](https://danielilett.com)
 -
+- [Ronja](https://www.ronja-tutorials.com)
 -
--
+- [Catlike Coding](https://catlikecoding.com)
