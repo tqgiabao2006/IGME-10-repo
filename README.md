@@ -13,3 +13,11 @@
 3. Vy de thuong qua
 ## BUON` CUOI QUA' DI
 *cute*
+
+troi`
+
+oi
+
+dang yeu
+
+qua di
