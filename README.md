@@ -19,11 +19,4 @@
 ## BUON` CUOI QUA' DI
 *cute*
 
-![new](md-image/Bao's PE Hello World Exc.PNG)
-troi`
-
-oi
-
-dang yeu
-
-qua di
+![non](md-image/Bao's PE Hello World Exc.PNG)
