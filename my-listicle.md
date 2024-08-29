@@ -22,8 +22,8 @@
 ![no](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_qezNCPmFeBZI9w4uFM88iE048R379oYqQ&s)
 
 
-| Name           | Age | Occupation       |
+| Name           | Field | Occupation       |
 |----------------|-----|------------------|
-| Alice          | 25  | Software Engineer|
-| Bob            | 30  | Data Scientist   |
-| Charlie        | 28  | Graphic Designer |
+| MinionsArt     | Shader, Unity | Software Engineer|
+| Cyanilux       | Shader, VFX| Data Scientist   |
+| Daniel        | Shader, VFX | Graphic Designer |
