@@ -22,8 +22,8 @@
 ![no](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_qezNCPmFeBZI9w4uFM88iE048R379oYqQ&s)
 
 
-| Name           | Field | Occupation       |
-|----------------|-----|------------------|
-| MinionsArt     | Shader, Unity | Software Engineer|
-| Cyanilux       | Shader, VFX| Data Scientist   |
-| Daniel        | Shader, VFX | Graphic Designer |
+| Name           | Field         | Link                                                               |
+|----------------|---------------|--------------------------------------------------------------------|
+| MinionsArt     | Shader, Unity | [MinionsArt](https://minionsart.github.io/tutorials/?type=built-in)|
+| Cyanilux       | Shader, VFX   | [Cyanilux](https://www.cyanilux.com)                               |
+| Daniel         | Shader, VFX   | [Daniel Ilett](https://danielilett.com)                            |
